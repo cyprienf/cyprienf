@@ -1,5 +1,11 @@
 ### Hello there 👋
 
+**Frontend:** Vue.js (Vite, Pinia, Bulma)
+**Backend:** SpringBoot
+**Databases:** SQL, Postgresql
+**Tools:** Git
+**Languages:** Javascript, Typescript, Java
+
 <!--
 **CyprienF/cyprienf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
