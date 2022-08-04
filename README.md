@@ -5,6 +5,8 @@
 - **Tools:** Git
 - **Languages:** Javascript, Typescript
 
+- 🌱 I’m currently learning NestJS, Prisma and Storybook
+
 <!--
 **CyprienF/cyprienf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
