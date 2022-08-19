@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-- **Frontend:** Vue.js (Vite, Pinia), Storybook
+- **Frontend:** Vue.js (Vite, Pinia, Vitest), Cypress, Testing Library, Storybook
 - **Databases:** SQL, Postgresql
 - **Tools:** Git
 - **Languages:** Javascript, Typescript
