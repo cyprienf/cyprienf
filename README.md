@@ -1,11 +1,11 @@
 ### Hello there 👋
 
-- **Frontend:** Vue.js (Vite, Pinia)
+- **Frontend:** Vue.js (Vite, Pinia), Storybook
 - **Databases:** SQL, Postgresql
 - **Tools:** Git
 - **Languages:** Javascript, Typescript
 
-🌱 I’m currently learning NestJS, Prisma and Storybook
+🌱 I’m currently learning D3.js
 
 <!--
 **CyprienF/cyprienf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
