@@ -5,7 +5,8 @@
 - **Tools:** Git
 - **Languages:** Javascript, Typescript
 
-🌱 I’m currently learning D3.js
+🔭 I’m currently working on BuzzUI-Vue, an UI library made with Vue 3, Vite and Typescript
+🌱 I’m currently learning Nuxt.js and D3.js
 
 <!--
 **CyprienF/cyprienf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
