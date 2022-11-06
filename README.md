@@ -1,13 +1,12 @@
 ### Hello there 👋
 
-- **Frontend:** Vue.js (Vite, Pinia, Vitest), Cypress, Testing Library, Storybook
-- **Databases:** SQL, Postgresql
-- **Tools:** Git
-- **Languages:** Javascript, Typescript
+- 🔭 I’m currently working on BuzzUI-Vue, an UI library made with Vue 3, Vite and Typescript
+- 🌱 I’m currently learning Nuxt.js and D3.js
 
-🔭 I’m currently working on BuzzUI-Vue, an UI library made with Vue 3, Vite and Typescript
-
-🌱 I’m currently learning Nuxt.js and D3.js
+**Frontend:** Vue.js (Vite, Pinia, Vitest), Cypress, Testing Library, Storybook\
+**Databases:** SQL, Postgresql\
+**Tools:** Git\
+**Languages:** Javascript, Typescript
 
 <!--
 **CyprienF/cyprienf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
