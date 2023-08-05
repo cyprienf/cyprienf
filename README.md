@@ -1,11 +1,13 @@
 ### Hello there 👋
 
 - 🔭 I’m currently working on [BuzzUI-Vue](https://github.com/CyprienF/buzzui-vue), an UI library made with Vue 3, Vite and Typescript
-- 🌱 I’m currently learning Nuxt.js and D3.js
+- 🌱 I’m currently learning Nuxt
 
-**Frontend:** Vue.js (Vite, Pinia, Vitest, Vitepress), Cypress, Storybook\
-**Databases:** SQL, PostgreSQL\
-**Tools:** Git\
+**Frontend:** Vue, Vite, Nuxt, Sass, Cypress\
+**Backend:** Nest.js, Prisma\
+**Database:** SQL, PostgreSQL\
+**Tools:** Git, Supabase\
+**DevOps:** Github Actions\
 **Languages:** Javascript, Typescript
 
 <!--
