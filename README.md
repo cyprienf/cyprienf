@@ -1,7 +1,7 @@
 ### Hello there 👋
 
 - 🔭 I’m currently working on [BuzzUI-Vue](https://github.com/CyprienF/buzzui-vue), an UI library made with Vue 3, Vite and Typescript
-- 🌱 I’m currently learning Nuxt
+- 🌱 I’m currently learning Nuxt and D3.js
 
 **Frontend:** Vue, Vite, Nuxt, Sass, Cypress\
 **Backend:** Nest.js, Prisma\
