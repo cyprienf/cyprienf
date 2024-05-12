@@ -1,6 +1,6 @@
-### Hello there 👋
+### 👋 Hello there! I'm Cyprien, a software engineer
 
-- 🌱 I’m currently learning D3.js and NestJS
+As a fullstack developer I love working with technologies like Vue, Nuxt, Nest.js and Prisma. I'm also big fan of librairies like D3.js and Leaflet to make data vizualization dashboards, creating graphs and maps. I spend most of my free time watching movies, reading books and playing piano.
 
 **Frontend:** Vue, Vite, Nuxt, Sass, Cypress, D3.js, Leaflet\
 **Backend:** Nest.js, Prisma\
