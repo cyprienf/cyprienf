@@ -2,10 +2,10 @@
 
 As a fullstack developer I love working with technologies like Vue, Nuxt, Fastify and Prisma. I'm also big fan of librairies like D3.js and Leaflet to make data vizualization dashboards, creating graphs and maps. I spend most of my free time watching movies, reading books and playing piano.
 
-**Frontend:** Vue, Vite, Nuxt, Sass, Cypress, D3.js, Leaflet\
-**Backend:** Fastify, Prisma\
+**Frontend:** Vue, Vite, Nuxt, Sass, Playwright, D3.js, Leaflet\
+**Backend:** Node.js, Fastify, Prisma\
 **Database:** SQL, PostgreSQL\
-**Tools:** Git, Supabase\
+**Tools:** Git, pnpm\
 **DevOps:** Github Actions\
 **Languages:** Javascript, Typescript
 
